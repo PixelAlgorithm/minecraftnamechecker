@@ -1,4 +1,4 @@
-Minecraft Name Checker (Using Mojang API)
+#Minecraft Name Checker (Using Mojang API)
 A Python code that checks whether a Minecraft username is available or already taken using the Official Mojang API.
 
 Features
